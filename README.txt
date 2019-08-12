@@ -6,3 +6,4 @@ OPTIONAl step to modify test data: Go to testdata/FacebookSignUpData spreadsheet
 Go to src/tests/FacebookSignUpTest. java and Run as TestNG Test
 The test will enter details on the Facebook sign up page and click Sign Up button so it moves the Enter code from Email screen. 
 Asserting whether the Continue button is available to see that the test moved to next screen.
+Please look at the execution report from test-output folder emailable-report.html
